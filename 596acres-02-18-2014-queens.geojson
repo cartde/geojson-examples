@@ -215,21 +215,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8192980332,
-          40.6855706667
-        ]
-      },
-      "type": "Feature",
-      "id": "4095770039",
-      "properties": {
-        "organizing_sites": true,
-        "area": 0.048
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.8550710532,
           40.67282289050001
         ]
@@ -620,21 +605,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8312142534,
-          40.7397791558
-        ]
-      },
-      "type": "Feature",
-      "id": "4063910024",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.108
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.7461893301,
           40.7774262168
         ]
@@ -719,21 +689,6 @@
       "properties": {
         "vacant_sites": true,
         "area": 0.042
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7288617698,
-          40.6701935486
-        ]
-      },
-      "type": "Feature",
-      "id": "4132270011",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.047
       }
     },
     {
@@ -3515,21 +3470,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.7332260314,
-          40.7305753164
-        ]
-      },
-      "type": "Feature",
-      "id": "4079540139",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.239
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.7508691155,
           40.770571812
         ]
@@ -3554,21 +3494,6 @@
       "properties": {
         "vacant_sites": true,
         "area": 0.04
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8487367505,
-          40.6884458648
-        ]
-      },
-      "type": "Feature",
-      "id": "4089910295",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.016
       }
     },
     {
@@ -3884,21 +3809,6 @@
       "properties": {
         "vacant_sites": true,
         "area": 0.009
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7978639746,
-          40.6752652554
-        ]
-      },
-      "type": "Feature",
-      "id": "4120380013",
-      "properties": {
-        "vacant_sites": true,
-        "area": 0.069
       }
     },
     {
